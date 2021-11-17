@@ -1,0 +1,7 @@
+##Function in Python
+
+def avg(n1,n2,n3):   #define function
+   return (n1+n2+n3)/3.0
+
+result=avg(10,20,30) #call function
+print(result)
